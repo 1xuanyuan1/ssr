@@ -2,7 +2,7 @@
   "name": "vue-cli-template-ssr",
   "version": "2.0.0",
   "license": "MIT",
-  "description": "A full-featured ssr setup with hot-reload, lint-on-save, unit testing & css extraction.",
+  "description": "A full-featured ssr setup with hot-reload, lint-on-save,css extraction.",
   "devDependencies": {
     "vue-cli": "^2.8.2"
   }
